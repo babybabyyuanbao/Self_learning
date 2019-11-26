@@ -1,0 +1,32 @@
+python script similar as R shiny: https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace
+
+Transcriptomics data analysis cources: 
+  https://www.datacamp.com/courses/rna-seq-differential-expression-analysis
+
+  https://bioinfoacademy.com/HighThroughputR
+
+  (week 4) https://www.edx.org/course/demystifying-biomedical-big-data-users-georgetownx-biox-201-01x-0
+
+  (now and then) https://www.edx.org/course/introduction-bioconductor-annotation-harvardx-ph525-5x-2
+
+  Real time courses
+
+  https://www.scilifelab.se/events/r-foundations-for-life-scientists/
+
+  https://www.scilifelab.se/events/rna-seq-3/
+
+  https://www.scilifelab.se/events/single-cell-rna-sequencing-analysis/
+
+§§§ FAST t-SNE:
+https://www.nature.com/articles/s41592-018-0308-4
+code: https://github.com/babybabyyuanbao/FIt-SNE
+
+§§§ R tiderverse
+https://nbisweden.github.io/RaukR-2018/tidyverse_Marcin/presentation/tidyverse_presentation.html#53
+
+§§§ using Python for querying Pfam using their API
+https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=54652320
+
+
+https://academic.oup.com/mbe/article/30/5/1218/997789
+
