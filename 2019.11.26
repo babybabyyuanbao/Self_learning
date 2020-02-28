@@ -43,3 +43,9 @@ https://wemp.app/posts/9ff367e0-9831-43b0-af64-e2508517e349?utm_source=latest-po
 
 skylearn official documentation:
 https://sklearn.apachecn.org/#/
+
+## Umap:
+https://rdrr.io/cran/Seurat/man/RunUMAP.html
+
+## 做package然后形成网站：mkdocs (python package)
+https://www.mkdocs.org/#installation
